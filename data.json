@@ -1,0 +1,159 @@
+{
+  "currentAffairs" : {
+    "status" : "Pursuing bachelors at UW-Madison",
+    "summary" : "I am passionate about developing software applications and solving technical problems. My past experience of managing teams of 10-15 developers has made me realize that working in teams is the best way to find solution to unique problems. Though my focus is on computer science which is also my major, I have worked on various mobile applications and am quite good at embedded systems as well. Working in different disciplines has helped me succeed in all my personal and team project.",
+    "livingIn" : "Madison"
+  },
+  "bioSection" : {
+    "name" : "Sparsh Agarwal",
+    "dob" : "09-01-1996",
+    "age" : 20,
+    "pNum" : 6083354990,
+    "photo" : "images/self.jpg" //TODO
+  },
+  "linksSection" : {
+    "facebook" : "facebook.com/sparsh.agarwal.3150",
+    "twitter" : "twitter.com/_SparshAgarwal",
+    "linkedIn" : "linkedin.com/in/sparshagarwaldtu/",
+    "youtube" : "youtube.com/channel/UCPDTcc2dAdZkrQ85zPOAZzA",
+    "github" : "github.com/SparshAgarwal",
+    "quora" : "",
+    "email" : "agarwal39@wisc.edu",
+    "emailAlt" : "sparshagarwaldtu@gmail.com",
+    "blog" : "",
+    "website" : "sparshagarwal.com",
+    "drive" : ""
+  },
+  "educationSection" : {
+    "colleges" : {
+      "" : "",
+      "first" : {
+
+      },
+      "second" : {
+
+      },
+
+    },
+    "highSchool" : {
+      "" : "",
+      "first" : {
+
+      },
+      "second" : {
+
+      },
+
+    }
+  },
+  "projectSection" : {
+
+    "project" : [
+      {
+        "name" : "Linear Discriminant Analysis",
+        "type" : "Machine Learning Project",
+        "start" : "Nov 2016",
+        "end" : "Dec 2017",
+        "desc" : "Developed a detailed description about working and application of LDA in real life,
+                  Used MATLAB and python to solve classification problems using dimensionality reduction,
+                  Resulted in understanding the various machine learning techniques and their associations",
+        "link" : "",
+        "location" : "Madison, WI, USA",
+        "occupation" : "student at UW-Madison",
+        "" : ""
+      },
+      {
+        "name" : "Linear Discriminant Analysis",
+        "type" : "Machine Learning Project",
+        "start" : "Nov 2016",
+        "end" : "Dec 2017",
+        "desc" : "Developed a detailed description about working and application of LDA in real life,
+                  Used MATLAB and python to solve classification problems using dimensionality reduction,
+                  Resulted in understanding the various machine learning techniques and their associations",
+        "link" : "",
+        "location" : "Madison, WI, USA",
+        "occupation" : "student at UW-Madison",
+        "" : ""
+      },
+      {
+        "name" : "Linear Discriminant Analysis",
+        "type" : "Machine Learning Project",
+        "start" : "Nov 2016",
+        "end" : "Dec 2017",
+        "desc" : "Developed a detailed description about working and application of LDA in real life,
+                  Used MATLAB and python to solve classification problems using dimensionality reduction,
+                  Resulted in understanding the various machine learning techniques and their associations",
+        "link" : "",
+        "location" : "Madison, WI, USA",
+        "occupation" : "student at UW-Madison",
+        "" : ""
+      },
+
+
+Host recognition via voice processing
+
+Mar 2017 – May 2017
+
+Project description
+ Focus: Use Deep Neural Networks for prediction technologies
+ Developed a multilayer convolutional NN from scratch and trained its weights to predict results
+ Used TensorFlow and Fourier transformations to process voice notes and train weights
+Edit project Compilers and Processors
+Project name Compilers and Processors
+
+Jan 2017 – Mar 2017
+
+Project description
+ Focus: Develop a full scale pipelined processor and a smart compiler for instruction execution
+ Implemented cache, pipelining, forwarding, and branch prediction for optimizing the processor
+ Developed a compiler to generate intermediate code from HLL program to feed into processor
+Edit project ‘Router’ Computer Networks Project
+Project name ‘Router’ Computer Networks Project
+
+Oct 2016 – Nov 2016
+
+Project description
+ Developed a full scale IPv4 router with core functionalities and reliable communication
+ Used switchyard framework for development and mininet for live testing
+ Resulted in understanding the concepts of data flow in computer networks
+Edit project &quot;Delhi girls pg&quot; Android application
+Project name "Delhi girls pg" Android application
+
+Dec 2015 – Feb 2016
+
+Project description
+Developed an android app to provide detailed information to the consumers. Used google map API and learned about handling large number of bitmaps. Resulted in understanding of both layouts and view development process.
+Edit project &quot;Evil Toys&quot; Unity game for Android
+Project name "Evil Toys" Unity game for Android
+
+Jan 2016 – Feb 2016
+
+Project description
+Developed an arcade first person shooting game on Unity Platform based on C#. Designed and controlled gaming objects using wire mesh, shadows, lights placement & physics. Resulted in understanding of game development in 3D environment & Unity Toolkit.
+Edit project Tri-copter
+Project name Tri-copter
+
+Mar 2015 – Mar 2015
+
+Project description
+Developed a self stabilized drone using arduino controlled by radio frequencies. Used javascript to create GUI for better controlling of the copter. Gained detailed knowledge about hardware and software synchronisation
+Edit project Bluetooth controlled RC car
+Project name Bluetooth controlled RC car
+
+Dec 2014 – Dec 2014
+
+Project description
+Developed a RC car controlled using bluetooth from various platforms including PC. Used the arduino IDE to develop the code for successful motion of car. Resulted in understanding the basics of embedded systems and arduino
+Edit project ‘Railway Ticketing Service’ Application using C++
+Project name ‘Railway Ticketing Service’ Application using C++
+
+Nov 2013 – Nov 2013
+
+Project description
+Developed a program to book tickets along with feature of user log-in. Used various types of file systems to create train and user database and its management. Resulted in understanding the basics of GUI and its development
+
+
+    ],
+
+  }
+}
